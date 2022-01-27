@@ -1,4 +1,4 @@
-### This project is deployed at :https://courses-hub.netlify.app/
+### This project is deployed at :https://mern-tracker-bd-demo.herokuapp.com/
 
 Simple and sweet Expense Tracker with backend logic where you can store your data and change any time .
 
