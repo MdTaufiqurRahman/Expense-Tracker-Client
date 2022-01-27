@@ -22,3 +22,20 @@ In the project directory, you can run:
 It start Node Server in available port 
 
 ### `npm run server`
+"server": "nodemon server "
+
+Start Node server with Nodemon
+
+
+### `npm run client`
+
+"client": "npm start --prefix client",
+
+Start React Project 
+
+### `npm run dev`
+
+"dev": "concurrently \"npm run server\" \"npm run client\"",
+
+Start  Both Node server and React in one command 
+# Expense-Tracker-Server
