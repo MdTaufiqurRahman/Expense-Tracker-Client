@@ -38,4 +38,4 @@ Start React Project
 "dev": "concurrently \"npm run server\" \"npm run client\"",
 
 Start  Both Node server and React in one command 
-# Expense-Tracker-Server
+# Expense-Tracker-Client
